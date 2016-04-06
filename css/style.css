@@ -1,0 +1,17 @@
+html {
+    overflow-y: scroll;
+}
+
+body {
+    padding-top: 70px;
+    background: url("background.jpg") no-repeat right bottom fixed #A9D6D0;
+    background-size: cover;
+}
+
+#content {
+    max-width: 500px;
+}
+#content h1 {
+    margin-top: 0;
+    padding: 10px 0;
+}
